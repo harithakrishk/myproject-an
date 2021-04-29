@@ -2,3 +2,6 @@ h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:white;
 }
+body{
+    background-image: url('D:\Angular\myproject\src\app\blood-bank\im.jpg');
+}
